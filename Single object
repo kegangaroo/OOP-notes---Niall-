@@ -1,6 +1,6 @@
 #Single object code example and denominations of steps
 
-'''python
+```python
 class Dog:
     ''' Dog conceptualizes possible attributes and methods that a Dog can have to represent an idea of a Dog through programming
 
@@ -38,7 +38,7 @@ class Dog:
         ''' Making our Dog Objects being representable in other objects. This is done by overriding __repr__()'''
         return self.__str__()
 
-'''
+```
 
 ##Dog is the object
 - it has self assessed actions based on a chance
