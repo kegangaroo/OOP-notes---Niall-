@@ -1,5 +1,5 @@
 # Object Oriented notes and definitions
-
+# This definition takes an input of a single letter to determine the which output to give
 ```python
 class teacher:
 # This class takes 3 given arguements and makes the the attributes of the object
@@ -11,22 +11,22 @@ class teacher:
           self.gender == "Ms"
           
 ```
-# This definition takes an input of a single letter to determine the which output to give
+# These attributes hold a string input from the user or a given print statement to be used in later code
 ```python
       self.name = name
       self.subject = subject
 ```
-# These attributes hold a string input from the user or a given print statement to be used in later code
+# This defined function prints out a striong of the given attributes
 ```python
   def__str__(self):
     return f"the teachers name is {self.gender} {self.name} and their favourite subject is {self.subject}"
 ```
-# This defined function prints out a striong of the given attributes
+# This function will automatically print it as a string as a control so as to not produce an error
 ```python
   def__repr__(self):
     return self.__str__()
 ```
-# This function will automatically print it as a string as a control so as to not produce an error
+# This fucntion defines an action the object "teacher" has and an outcome along with the action
 ```python
   def __grade__(self, grade):
     pas
