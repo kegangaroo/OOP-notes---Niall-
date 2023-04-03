@@ -1,4 +1,4 @@
-#Two objects being put one after the other
+# Two objects being put one after the other
 
 ```python
 
@@ -62,7 +62,7 @@ class Deck:
 
 ```
 
-##Dual Object
+## Dual Object
 - the first object sets the format and characteristics
 - the second object is when you have multiple of that object, and how they can be manipulated or changed
 - the defining of a function within an object allows for the desired manipulation and proper output the "programmer" is looking for
