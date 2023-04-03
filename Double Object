@@ -1,6 +1,6 @@
 #Two objects being put one after the other
 
-'''python
+```python
 
 from random import shuffle as r_shuffle
 
@@ -60,7 +60,7 @@ class Deck:
 #to rearrange the list, the shuffle function sorts them at random as they are added to the list in order of the suits as they are listed
 #finally, the draw function, takes certain cards out, adding them to the empty list, creating the hand the user recieves back
 
-'''
+```
 
 ##Dual Object
 - the first object sets the format and characteristics
