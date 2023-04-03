@@ -1,4 +1,4 @@
-#Single object code example and denominations of steps
+# Single object code example and denominations of steps
 
 ```python
 class Dog:
@@ -40,7 +40,7 @@ class Dog:
 
 ```
 
-##Dog is the object
+## Dog is the object
 - it has self assessed actions based on a chance
 - has an override to remove errors
 - has stated attributs to differentiate when given different inputs
